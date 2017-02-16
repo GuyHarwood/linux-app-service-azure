@@ -8,7 +8,7 @@ const PORT = 8080;
 // App
 const app = express();
 app.get('/', function (req, res) {
-  res.send('Hello world from Linux Azure\n');
+  res.send('Hello from Linux on Azure\n');
 });
 
 app.listen(PORT);
