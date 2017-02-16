@@ -1,1 +1,2 @@
-FROM dimkk/ng2-admin:latest
+FROM training/webapp:latest
+# FROM dimkk/ng2-admin:latest
